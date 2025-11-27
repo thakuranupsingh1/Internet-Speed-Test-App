@@ -72,6 +72,7 @@ python main.py
  ├── main.py
  ├── resultt.png
  ├── README.md
+ ├── speed.ico
  
 ```
 
