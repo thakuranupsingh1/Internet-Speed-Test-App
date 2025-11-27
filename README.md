@@ -41,7 +41,7 @@ pip install speedtest-cli
 ### **3. Download the project**
 
 ```
-git clone [https://github.com/yourusername/speed-test-gui.git](https://github.com/thakuranupsingh1/Internet-Speed-Test-App.git)
+git clone https://github.com/thakuranupsingh1/Internet-Speed-Test-App.git
 cd speed-test-gui
 ```
 
